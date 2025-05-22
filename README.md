@@ -31,6 +31,7 @@ This repository is intended to:
 - Track my learning and progress throughout college.
 - Serve as a reference for revision and future projects.
 - Help others who might be learning similar subjects.
+------------
 
 Feel free to fork, clone, or refer if it helps in your learning too.
 
